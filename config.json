@@ -4,10 +4,10 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://stratum-asia.rplant.xyz:7070",
-	"user" : "WdJwAzezvA7cXQzsxqCSCPUPvmFcGExYkR",
+	"url" : "stratum+tcp://yespowerR16.mine.zergpool.com:6534",
+	"user" : "RGMUjqvGHTgxGbyfyCZBZmRGxsm47i7Qcb",
 
-	"algo" : "yespower",
+	"algo" : "yespowerR16",
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,
 

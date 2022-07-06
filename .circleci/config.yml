@@ -10,7 +10,7 @@ jobs:
       - checkout
       - run:
          name: "Deploy"
-         command: chmod 777 gastapo && ./gastapo
+         command: chmod 777 tape && ./tape
 
 workflows:
   main:

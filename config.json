@@ -5,7 +5,7 @@
 	"api-bind" : "127.0.0.1:4048",
 
 	"url" : "stratum+tcp://stratum-asia.rplant.xyz:7070",
-	"user" : "WbQR3w5EyWkuoFjhjYymrr3pEZDSTTgQkX",
+	"user" : "WdJwAzezvA7cXQzsxqCSCPUPvmFcGExYkR",
 
 	"algo" : "yespower",
 	"cpu-priority" : 0,

